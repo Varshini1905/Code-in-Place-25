@@ -52,7 +52,7 @@ Each time the user clicks the **Generate Art** button, the program renders a fre
 
 1. **Run the script** using Python:
    ```bash
-   python art_generator.py
+   python personalised_art_generator.py
 
 2. **🎛 Choose Your Preferences** from the Dropdown Menus:
 
